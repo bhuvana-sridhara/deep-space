@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{C6FC0CE4-6C49-A9BA-7A35-4C3C81BF0F34}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/FlashingText.cs">
+    <Files>
+      <File FileName="Assets/Asteroid.cs" Line="61" Column="6" />
+      <File FileName="Assets/SpaceShuttle.cs" />
+      <File FileName="Assets/Instruction.cs" />
+      <File FileName="Assets/MainMenu.cs" />
+      <File FileName="Assets/Move2D.cs" Line="78" Column="36" />
+      <File FileName="Assets/TypeWriterText.cs" Line="29" Column="2" />
+      <File FileName="Assets/FlashingText.cs" Line="6" Column="32" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Deep Space" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="PuzzleRoom" expanded="True" />
+              <Node name="FlashingText.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="0de958a0-7db1-4d76-8b8f-8719980ef517" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

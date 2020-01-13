@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{D2A6ADD5-BE4C-9600-10A6-8726552F9644}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/MoveNoGravity.cs">
+    <Files>
+      <File FileName="Assets/Move2D.cs" Line="65" Column="69" />
+      <File FileName="Assets/TimerScript.cs" />
+      <File FileName="Assets/Scenes/TImer.cs" />
+      <File FileName="Assets/Asteroid.cs" />
+      <File FileName="Assets/MoveLow.cs" />
+      <File FileName="Assets/SpaceShuttle.cs" />
+      <File FileName="Assets/MoveNoGravity.cs" Line="31" Column="6" />
+      <File FileName="Assets/FloatSpaceCraft.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Deep SpaceDemo1" expanded="True" selected="True">
+            <Node name="Assets" expanded="True">
+              <Node name="PuzzleRoom" expanded="True" />
+              <Node name="Scenes" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="2f7fb3c0-a489-4864-8d0e-2bcab4c7f26c" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
